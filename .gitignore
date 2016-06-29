@@ -1,0 +1,10 @@
+
+# Object files
+*.o
+
+# Lex and bison output
+*.tab.[ch]
+lex.yy.c
+
+# Executable
+lavender
